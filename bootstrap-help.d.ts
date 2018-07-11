@@ -1,0 +1,4 @@
+interface JQuery
+{
+    bootstrapHelp(): JQuery;
+}
